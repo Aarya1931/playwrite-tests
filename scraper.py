@@ -17,8 +17,8 @@ class InventoryDataExtractor:
     def __init__(self, headless=False):
         self.headless = headless
         self.base_url = "https://hiring.idenhq.com/"
-        self.username = "saanvibhat16@gmail.com"
-        self.password = "XXxaUU5Q"  # Replace with your actual password
+        self.username = "aaryasawant2545@gmail.com"
+        self.password = "m1SSf4wg"  # Replace with your actual password
         self.session_file = "session_data.json"
         self.output_file = f"product_data_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
 
