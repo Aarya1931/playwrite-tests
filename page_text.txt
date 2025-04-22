@@ -1,0 +1,495 @@
+Iden Challenge
+Candidate
+Instructions
+Submit Solution
+tani25052004@gmail.com
+Sign out
+Product Dashboard
+
+Assessment ID: 975b287c-637b-494f-bedb-9c969fe3b5a8 • Layout: List
+
+Product Inventory
+Showing 40 of 4130 products
+Ultimate Electronics Plus
+ID: 0
+•
+Electronics
+Item Code
+ELE-2199-0
+Description
+A powerful, ergonomic electronics product. The Ultimate Electronics Plus is designed for maximum performance and user satisfaction.
+Price
+$201.04
+Updated
+13 days ago
+Essential Home & Kitchen Bundle
+ID: 1
+•
+Home & Kitchen
+Item Code
+HOM-2757-1
+Description
+A compact, portable home & kitchen product. The Essential Home & Kitchen Bundle is designed for maximum performance and user satisfaction.
+Price
+$384.57
+Updated
+30 days ago
+Deluxe Automotive Package
+ID: 2
+•
+Automotive
+Item Code
+AUT-1044-2
+Description
+A durable, high-quality automotive product. The Deluxe Automotive Package is designed for maximum performance and user satisfaction.
+Price
+$489.66
+Updated
+11 days ago
+Ultimate Office Set
+ID: 3
+•
+Office
+Item Code
+OFF-2776-3
+Description
+A lightweight, lightweight office product. The Ultimate Office Set is designed for maximum performance and user satisfaction.
+Price
+$584.94
+Updated
+7 days ago
+Essential Clothing Plus
+ID: 4
+•
+Clothing
+Item Code
+CLO-0210-4
+Description
+A versatile, versatile clothing product. The Essential Clothing Plus is designed for maximum performance and user satisfaction.
+Price
+$916.42
+Updated
+30 days ago
+Innovative Office Ultra
+ID: 5
+•
+Office
+Item Code
+OFF-8199-5
+Description
+A versatile, lightweight office product. The Innovative Office Ultra is designed for maximum performance and user satisfaction.
+Price
+$757.62
+Updated
+4 days ago
+Essential Books Max
+ID: 6
+•
+Books
+Item Code
+BOO-9618-6
+Description
+A affordable, eco-friendly books product. The Essential Books Max is designed for maximum performance and user satisfaction.
+Price
+$286.29
+Updated
+9 days ago
+Premium Toys Lite
+ID: 7
+•
+Toys
+Item Code
+TOY-4769-7
+Description
+A premium, affordable toys product. The Premium Toys Lite is designed for maximum performance and user satisfaction.
+Price
+$414.32
+Updated
+27 days ago
+Budget Beauty Package
+ID: 8
+•
+Beauty
+Item Code
+BEA-1976-8
+Description
+A stylish, high-quality beauty product. The Budget Beauty Package is designed for maximum performance and user satisfaction.
+Price
+$830.31
+Updated
+20 days ago
+Luxury Sports Device
+ID: 9
+•
+Sports
+Item Code
+SPO-6598-9
+Description
+A efficient, premium sports product. The Luxury Sports Device is designed for maximum performance and user satisfaction.
+Price
+$895.71
+Updated
+30 days ago
+Professional Garden System
+ID: 10
+•
+Garden
+Item Code
+GAR-9529-10
+Description
+A powerful, efficient garden product. The Professional Garden System is designed for maximum performance and user satisfaction.
+Price
+$211.61
+Updated
+about 19 hours ago
+Ultimate Automotive Series
+ID: 11
+•
+Automotive
+Item Code
+AUT-5491-11
+Description
+A portable, versatile automotive product. The Ultimate Automotive Series is designed for maximum performance and user satisfaction.
+Price
+$724.32
+Updated
+27 days ago
+Deluxe Clothing Package
+ID: 12
+•
+Clothing
+Item Code
+CLO-0386-12
+Description
+A stylish, professional clothing product. The Deluxe Clothing Package is designed for maximum performance and user satisfaction.
+Price
+$226.45
+Updated
+5 days ago
+Ultimate Garden Pro
+ID: 13
+•
+Garden
+Item Code
+GAR-2952-13
+Description
+A portable, efficient garden product. The Ultimate Garden Pro is designed for maximum performance and user satisfaction.
+Price
+$595.87
+Updated
+13 days ago
+Smart Garden Plus
+ID: 14
+•
+Garden
+Item Code
+GAR-5004-14
+Description
+A professional, lightweight garden product. The Smart Garden Plus is designed for maximum performance and user satisfaction.
+Price
+$816.79
+Updated
+14 days ago
+Eco-friendly Home & Kitchen Lite
+ID: 15
+•
+Home & Kitchen
+Item Code
+HOM-0528-15
+Description
+A affordable, stylish home & kitchen product. The Eco-friendly Home & Kitchen Lite is designed for maximum performance and user satisfaction.
+Price
+$452.27
+Updated
+20 days ago
+Compact Office Plus
+ID: 16
+•
+Office
+Item Code
+OFF-7086-16
+Description
+A versatile, durable office product. The Compact Office Plus is designed for maximum performance and user satisfaction.
+Price
+$233.34
+Updated
+18 days ago
+Professional Books Bundle
+ID: 17
+•
+Books
+Item Code
+BOO-1801-17
+Description
+A professional, versatile books product. The Professional Books Bundle is designed for maximum performance and user satisfaction.
+Price
+$854.13
+Updated
+11 days ago
+Advanced Beauty Bundle
+ID: 18
+•
+Beauty
+Item Code
+BEA-6537-18
+Description
+A efficient, high-quality beauty product. The Advanced Beauty Bundle is designed for maximum performance and user satisfaction.
+Price
+$451.34
+Updated
+4 days ago
+Classic Office Series
+ID: 19
+•
+Office
+Item Code
+OFF-4044-19
+Description
+A high-quality, ergonomic office product. The Classic Office Series is designed for maximum performance and user satisfaction.
+Price
+$996.24
+Updated
+3 days ago
+Advanced Toys Max
+ID: 20
+•
+Toys
+Item Code
+TOY-3386-20
+Description
+A lightweight, affordable toys product. The Advanced Toys Max is designed for maximum performance and user satisfaction.
+Price
+$110.41
+Updated
+11 days ago
+Essential Sports Pro
+ID: 21
+•
+Sports
+Item Code
+SPO-2853-21
+Description
+A stylish, compact sports product. The Essential Sports Pro is designed for maximum performance and user satisfaction.
+Price
+$252.01
+Updated
+6 days ago
+Portable Office Lite
+ID: 22
+•
+Office
+Item Code
+OFF-6799-22
+Description
+A efficient, innovative office product. The Portable Office Lite is designed for maximum performance and user satisfaction.
+Price
+$758.33
+Updated
+25 days ago
+Luxury Automotive Tool
+ID: 23
+•
+Automotive
+Item Code
+AUT-4840-23
+Description
+A high-quality, premium automotive product. The Luxury Automotive Tool is designed for maximum performance and user satisfaction.
+Price
+$24.27
+Updated
+4 days ago
+Deluxe Beauty Device
+ID: 24
+•
+Beauty
+Item Code
+BEA-9008-24
+Description
+A eco-friendly, efficient beauty product. The Deluxe Beauty Device is designed for maximum performance and user satisfaction.
+Price
+$877.89
+Updated
+3 days ago
+Luxury Sports Collection
+ID: 25
+•
+Sports
+Item Code
+SPO-0497-25
+Description
+A high-quality, eco-friendly sports product. The Luxury Sports Collection is designed for maximum performance and user satisfaction.
+Price
+$28.12
+Updated
+3 days ago
+Portable Health Set
+ID: 26
+•
+Health
+Item Code
+HEA-0574-26
+Description
+A versatile, lightweight health product. The Portable Health Set is designed for maximum performance and user satisfaction.
+Price
+$886.73
+Updated
+4 days ago
+Budget Toys Device
+ID: 27
+•
+Toys
+Item Code
+TOY-3857-27
+Description
+A high-quality, affordable toys product. The Budget Toys Device is designed for maximum performance and user satisfaction.
+Price
+$848.90
+Updated
+17 days ago
+Portable Sports Kit
+ID: 28
+•
+Sports
+Item Code
+SPO-9377-28
+Description
+A stylish, durable sports product. The Portable Sports Kit is designed for maximum performance and user satisfaction.
+Price
+$347.86
+Updated
+29 days ago
+Classic Beauty Plus
+ID: 29
+•
+Beauty
+Item Code
+BEA-3267-29
+Description
+A affordable, portable beauty product. The Classic Beauty Plus is designed for maximum performance and user satisfaction.
+Price
+$119.78
+Updated
+24 days ago
+Luxury Automotive Lite
+ID: 30
+•
+Automotive
+Item Code
+AUT-0216-30
+Description
+A efficient, compact automotive product. The Luxury Automotive Lite is designed for maximum performance and user satisfaction.
+Price
+$802.87
+Updated
+about 19 hours ago
+Premium Electronics Collection
+ID: 31
+•
+Electronics
+Item Code
+ELE-8458-31
+Description
+A powerful, professional electronics product. The Premium Electronics Collection is designed for maximum performance and user satisfaction.
+Price
+$779.74
+Updated
+21 days ago
+Budget Automotive Tool
+ID: 32
+•
+Automotive
+Item Code
+AUT-7261-32
+Description
+A portable, versatile automotive product. The Budget Automotive Tool is designed for maximum performance and user satisfaction.
+Price
+$18.42
+Updated
+7 days ago
+Premium Health Package
+ID: 33
+•
+Health
+Item Code
+HEA-2073-33
+Description
+A portable, innovative health product. The Premium Health Package is designed for maximum performance and user satisfaction.
+Price
+$801.94
+Updated
+11 days ago
+Eco-friendly Books Ultra
+ID: 34
+•
+Books
+Item Code
+BOO-0851-34
+Description
+A durable, durable books product. The Eco-friendly Books Ultra is designed for maximum performance and user satisfaction.
+Price
+$64.25
+Updated
+30 days ago
+Advanced Books Series
+ID: 35
+•
+Books
+Item Code
+BOO-9869-35
+Description
+A efficient, stylish books product. The Advanced Books Series is designed for maximum performance and user satisfaction.
+Price
+$358.46
+Updated
+26 days ago
+Professional Health Ultra
+ID: 36
+•
+Health
+Item Code
+HEA-5339-36
+Description
+A durable, premium health product. The Professional Health Ultra is designed for maximum performance and user satisfaction.
+Price
+$528.72
+Updated
+26 days ago
+Classic Garden Kit
+ID: 37
+•
+Garden
+Item Code
+GAR-5558-37
+Description
+A innovative, eco-friendly garden product. The Classic Garden Kit is designed for maximum performance and user satisfaction.
+Price
+$116.85
+Updated
+27 days ago
+Ultimate Toys Plus
+ID: 38
+•
+Toys
+Item Code
+TOY-0215-38
+Description
+A affordable, versatile toys product. The Ultimate Toys Plus is designed for maximum performance and user satisfaction.
+Price
+$86.13
+Updated
+3 days ago
+Essential Health Kit
+ID: 39
+•
+Health
+Item Code
+HEA-2639-39
+Description
+A affordable, innovative health product. The Essential Health Kit is designed for maximum performance and user satisfaction.
+Price
+$870.72
+Updated
+20 days ago
+Scroll for more products (4090 remaining)
+Edit with
+×
